@@ -1,0 +1,31 @@
+# Entornos virtuales de Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Dependencias de Node / Frontend
+node_modules/
+dist/
+.vite/
+*.local
+
+# Variables de entorno y credenciales (¡Nunca subir a GitHub!)
+.env
+.env.*
+!.env.example
+
+# Logs y bases de datos locales
+*.log
+*.sqlite
+*.sqlite3
+
+# IDEs y SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
