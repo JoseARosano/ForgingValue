@@ -1,6 +1,6 @@
-# 📊 InvestIQ — Value Investing & Financial Analysis Platform
+# 📊 ForgingValue — Value Investing & Financial Analysis Platform
 
-> **InvestIQ** es una plataforma web full-stack de análisis fundamental, valoración financiera avanzada y detección de oportunidades de inversión bajo la filosofía del *Value Investing*. Integra modelos cuantitativos y financieros de grado institucional (DCF, LBO, 3-Statement Model, Piotroski F-Score y Magic Formula) en una arquitectura moderna, escalable, políglota (ES/EN) y orientada a la educación del inversor.
+> **ForgingValue** es una plataforma web full-stack de análisis fundamental, valoración financiera avanzada y detección de oportunidades de inversión bajo la filosofía del *Value Investing*. Integra modelos cuantitativos y financieros de grado institucional (DCF, LBO, 3-Statement Model, Piotroski F-Score y Magic Formula) en una arquitectura moderna, escalable, políglota (ES/EN) y orientada a la educación del inversor.
 
 ---
 
@@ -81,7 +81,7 @@ graph TB
 ## 📂 Estructura del Monorepo
 
 ```text
-investiq/
+forgingvalue/
 ├── backend/                  # API REST construida con FastAPI
 │   ├── app/
 │   │   ├── api/v1/          # Endpoints versionados
@@ -115,8 +115,8 @@ investiq/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/investiq.git
-cd investiq
+git clone https://github.com/tu-usuario/forgingvalue.git
+cd forgingvalue
 ```
 
 ### 2. Configuración del Backend
