@@ -1,0 +1,31 @@
+{
+  "app_name": "ForgingValue",
+  "tagline": "Plataforma de análisis fundamental y valoración financiera interactiva",
+  "navigation": {
+    "dashboard": "Panel Principal",
+    "statements": "Estados Financieros (3-Model)",
+    "valuation": "Valoración DCF",
+    "lbo": "Análisis LBO",
+    "screener": "Screener & Scoring",
+    "peers": "Comparador de Empresas",
+    "learn": "Aprender (Glosario)"
+  },
+  "actions": {
+    "search": "Buscar empresa o ticker...",
+    "save": "Guardar",
+    "export": "Exportar CSV",
+    "reset": "Restablecer",
+    "calculate": "Calcular",
+    "compare": "Comparar"
+  },
+  "language": {
+    "es": "Español",
+    "en": "English",
+    "change": "Cambiar idioma"
+  },
+  "status": {
+    "loading": "Cargando datos...",
+    "error": "Ha ocurrido un error",
+    "success": "Operación completada con éxito"
+  }
+}
